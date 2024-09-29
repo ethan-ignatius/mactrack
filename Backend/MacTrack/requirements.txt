@@ -1,0 +1,11 @@
+flask
+flask-cors
+certifi
+pymongo
+dotenv
+bcrypt
+datetime
+openai
+base64
+json
+sys
